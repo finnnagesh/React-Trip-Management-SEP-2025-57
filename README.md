@@ -64,7 +64,7 @@ src/
     
     ```
     git clone https://github.com/finnnagesh/React-Trip-Management-SEP-2025-57.git
-    cd React-Trip-Management-SEP-2025-57
+    cd trip-manager
     
     ```
     
@@ -122,10 +122,13 @@ src/
 _(Optional: add screenshots in a `screenshots/` folder)_
 
 -   **Dashboard:** Trip list with search, filter, and pagination
-    
+    ![Dashboard Screenshot](screenshots/dashboard.png)
 -   **Add Trip Form:** Form with validation
-    
+    ![Add Trip Screenshot](screenshots/add_trip.png)
 -   **Edit Trip Form:** Update trip details
-    
+    ![Edit Trip Screenshot](screenshots/edit_trip.png)
+
+
+
     
 
