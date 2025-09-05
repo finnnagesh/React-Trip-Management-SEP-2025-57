@@ -119,14 +119,14 @@ src/
 
 ## **Screenshots**
 
-_(Optional: add screenshots in a `screenshots/` folder)_
+### Dashboard: Trip list with search, filter, and pagination
+![Dashboard Screenshot](screenshots/dashboard.png)
 
--   **Dashboard:** Trip list with search, filter, and pagination
-    ![Dashboard Screenshot](screenshots/dashboard.png)
--   **Add Trip Form:** Form with validation
-    ![Add Trip Screenshot](screenshots/add_trip.png)
--   **Edit Trip Form:** Update trip details
-    ![Edit Trip Screenshot](screenshots/edit_trip.png)
+### Add Trip Form: Form with validation
+![Add Trip Screenshot](screenshots/add_trip.png)
+
+### Edit Trip Form: Update trip details
+![Edit Trip Screenshot](screenshots/edit_trip.png)
 
 
 
