@@ -3,24 +3,6 @@
 
 A **React.js Single Page Application (SPA)** to manage trips with full CRUD functionality, search, filtering, pagination, and form validation. Built using **React 18**, **React Router v6**, **React Hook Form**, and **Tailwind CSS**. This project uses **dummy JSON data** .
 
-## **Quick Start**
-
-```
-# Clone the repository
-git clone <your-repo-url>
-
-# Navigate to the project directory
-cd trip-manager
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-
-```
-
-Open your browser at `http://localhost:5173`.
 
 ## **Features**
 
@@ -81,7 +63,7 @@ src/
 1.  **Clone the repository:**
     
     ```
-    git clone <https://github.com/finnnagesh/React-Trip-Management-SEP-2025-57.git>
+    git clone https://github.com/finnnagesh/React-Trip-Management-SEP-2025-57.git
     cd React-Trip-Management-SEP-2025-57
     
     ```
